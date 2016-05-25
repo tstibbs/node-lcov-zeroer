@@ -6,5 +6,5 @@ var inputFile = process.argv[2];
 var outputFile = process.argv[3];
 
 zeroer(inputFile, outputFile, function() {
-	console.log('Finished zeroing file ' + file);
+	console.log('Finished zeroing file ' + inputFile);
 });
