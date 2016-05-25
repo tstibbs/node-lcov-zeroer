@@ -1,0 +1,16 @@
+{
+  "name": "lvoc-zeroer",
+  "version": "0.0.1",
+  "description": "Sets all coverage stats to zero in an lcov file",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "byline": "^4.2.1",
+    "tmp": "^0.0.28"
+  },
+  "devDependencies": {
+    "should": "^8.4.0"
+  }
+}
