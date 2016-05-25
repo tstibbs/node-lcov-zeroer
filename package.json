@@ -1,5 +1,5 @@
 {
-  "name": "lvoc-zeroer",
+  "name": "lcov-zeroer",
   "version": "0.0.1",
   "description": "Sets all coverage stats to zero in an lcov file",
   "license": "Apache-2.0",
